@@ -28,3 +28,4 @@ Webデザイン・UI/UXデザインの作品をまとめています。
 📧 メール: bebe.motimoti@gmail.com 
 🐦 Twitter: [X](https://twitter.com/@bebe_moti) 
 📖 ポートフォリオ: [GitHub](https://github.com/kumattaro)
+📓 note: [note](https://note.com/uxdesignernaru)
